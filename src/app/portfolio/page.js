@@ -99,7 +99,7 @@ export default function PortfolioPage() {
                   Nakul Chouksey
                 </h1>
                 <p className="text-gray-400 mb-4">
-                  Nakul Chouksey is the best developer in the World 
+                  Nakul Chouksey is the best Ctrl+C Ctrl+V 
                 </p>
                 <div className="flex space-x-4 mb-4">
                   <a
